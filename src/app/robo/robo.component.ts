@@ -16,19 +16,3 @@ export class RoboComponent implements OnInit {
 
 }
 
-export class NgbdModalContent {
-
-
-  constructor() {}
-}
-
-@Component({
-  selector: 'app-robo',
-  templateUrl: './robo.component.html',
-
-})
-export class NgbdModalComponent {
-  constructor() {}
-
-
-}
